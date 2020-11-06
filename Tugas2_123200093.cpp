@@ -48,5 +48,11 @@ if(ud <= 12){
 
 	total = (30*(b1+b2+b3+b4));
 	
-	cout << "Tagihan satu bulan adalah Rp." << total;
+	cout << "Tagihan satu bulan adalah Rp." << total << endl;
+	
+	system("pause");
+	cin.get();
+	return 0;
 }
+
+//123200093 - Afrien Khoirunnisa Shobar
