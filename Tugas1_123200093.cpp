@@ -18,5 +18,9 @@ int main ()
 	cout << "Hai, nama saya " << nama << ", NIM " << nim << endl;
 	cout << "Nilai akhir saya " << rata << endl;
 
+	system("pause");
+	cin.get();
+	return 0;
 }
 
+//123200093 - Afrien Khoirunnisa Shobar
