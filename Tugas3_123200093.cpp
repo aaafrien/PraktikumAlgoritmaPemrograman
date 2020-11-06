@@ -58,6 +58,10 @@ int main()
 	} else if(uname!="afrien" && pass==123){
 		cout << "Username anda salah!";
 	}
+	cout << endl;
+	system("pause");
+	cin.get();
+	return 0;
 }
 
 //123200093 - Afrien Khoirunnisa Shobar
